@@ -10,7 +10,7 @@
 
  <img src="idade.png">
 
- ## Cancelamento, indicador dias de atraso,clientes que atrasam mais de 20 dias cancelam o contrato
+ ## Cancelamento, indicador dias de atraso,clientes que atrasam mais de 20 dias o pagamento cancelam o contrato
 
  <img src="atraso.png">
 
